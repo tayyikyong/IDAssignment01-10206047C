@@ -8,7 +8,7 @@ I decided to create a personal portfolio website so that it would help me in the
 
 Reference for my assignment: 1. https://lectureinprogress.com/journal/work-ready-portfolio-website. This website taught me what I should include in my personal portfolio.
 2.https://line25.com/tutorials/how-to-code-a-stylish-portfolio-design-in-html-and-css. This website gave me inspiration for the design of my website and how the layout of my website.
-3.https://xd.adobe.com/view/b0d0ab34-b60a-413f-b456-9b6c691a07f8-e583/. This is the link to my woreframe for my website.
+3.https://xd.adobe.com/view/b0d0ab34-b60a-413f-b456-9b6c691a07f8-e583/. This is the link to my wireframe for my website.
 
 #Features of my website
 The home page has a short greeting to introduce who I am and a button which will lead the user on to my portfolio. The button will light up upon hovering the cursor on it. The homepage also has the various social media icons like Instagram, Facebook, Youtube, etc. which will redirect the user to the various social media respectively to reach out to me. The social media icons will also light up upon hovering the cursor on it.
