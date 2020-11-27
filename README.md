@@ -13,7 +13,7 @@ Reference for my assignment: 1. https://lectureinprogress.com/journal/work-ready
 #Features of my website
 The home page has a short greeting to introduce who I am and a button which will lead the user on to my portfolio. The button will light up upon hovering the cursor on it. The homepage also has the various social media icons like Instagram, Facebook, Youtube, etc. which will redirect the user to the various social media respectively to reach out to me. The social media icons will also light up upon hovering the cursor on it.
 
-The website also has a navigation bar which follows the user when they navigate around the website. The navigation bar also minimizes when the screen becomes small like when on mobile devices. The various navigation buuttons also light up when the cursor is hovering on it.
+The website also has a navigation bar which follows the user when they navigate around the website. The navigation bar also minimizes when the screen becomes small like when on mobile devices. The various navigation buttons also light up when the cursor is hovering on it.
 
 The review boxes changes a different shade of color when the cursor hovers on each of it to make it more outstanding and to make its outline more distinctive.
 
